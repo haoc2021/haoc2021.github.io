@@ -52,7 +52,7 @@ using two columns separated by 0.33" (8 mm) of whitespace. Use 10-point type on
 body of the paper. Authors using MS Work or LaTeX should consider using 
 the [ACM SIGPLAN template](https://www.acm.org/publications/proceedings-template).
 
-The paper review is double-blind. The authors anonymize the paper content, 
+The paper review is double-blind. Authors should anonymize the paper content, 
 including removing authors' names and affiliations in the title page. 
 However, submissions that describe systems in production or real-world 
 experiences need *not* anonymize the paper content other than the 
