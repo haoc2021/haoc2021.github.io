@@ -1,0 +1,8 @@
+title: HAOC Workshop 2021
+email: your-email@example.com
+description: >- 
+  The 1st Workshop on High Availability and Observability of Cloud Systems
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+theme: minima
