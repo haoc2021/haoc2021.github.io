@@ -52,6 +52,14 @@ using two columns separated by 0.33" (8 mm) of whitespace. Use 10-point type on
 body of the paper. Authors using MS Work or LaTeX should consider using 
 the [ACM SIGPLAN template](https://www.acm.org/publications/proceedings-template).
 
+The paper review is double-blind. The authors anonymize the paper content, 
+including removing authors' names and affiliations in the title page. 
+However, submissions that describe systems in production or real-world 
+experiences need *not* anonymize the paper content other than the 
+authors' names, i.e., authors may keep the company's name, production 
+system name, etc., as appropriate in the paper, which would provide 
+reviewers with better context to evaluate the work.
+
 ## Submission Website
 
 **Submit your paper** at [https://haoc21.hotcrp.com](https://haoc21.hotcrp.com)
