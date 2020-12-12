@@ -44,12 +44,12 @@ provide a crisp problem statement, a compelling motivation for the work, and
 some contextualization with respect to related academic work and the current
 state-of-the-art in industry.
 
-Papers should be submitted in PDF files with **at most 6 pages** in length, including
-figures and tables. Submissions may include as many pages as needed for references.
+Papers should be submitted in PDF files. The paper should be **at most 6 pages** in length, 
+including figures and tables. Submissions may include as many pages as needed for references.
 Submissions should be formatted in 8.5" x 11" paper with a text block 7" x 9", 
 using two columns separated by 0.33" (8 mm) of whitespace. Use 10-point type on 
 12-point (single-spaced) leading and Times Roman or a similar font for the 
-body of the paper. Authors using MS Work or LaTeX should consider using 
+body of the paper. Authors using Microsoft Word or LaTeX should consider using 
 the [ACM SIGPLAN template](https://www.acm.org/publications/proceedings-template).
 
 The paper review is double-blind. Authors should anonymize the paper content, 
