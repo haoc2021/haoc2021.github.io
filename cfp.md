@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<img class="img-logo" src="assets/image/cloud_aircraft2.png" alt="Cloud Image" style="padding-left: 0px; padding-right: 0px;">
+
 ## Call For Papers
 
 The first workshop on High Availability and Observability of Cloud Systems

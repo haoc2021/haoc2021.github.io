@@ -4,6 +4,10 @@ layout: default
 
 <img class="img-logo" src="assets/image/cloud_aircraft.jpg" alt="Cloud Image" style="padding-left: 0px; padding-right: 0px;">
 <h2 class="text-primary">Overview</h2>
+Welcome to HAOC'21!
+
+<img class="img" src="assets/image/logo_small.png" alt="Logo Image" width="200" style="padding-left: 0px; padding-right: 0px;">
+
 The 1st High Availability and Observability of Cloud Systems (HAOC) workshop,
 in conjunction with <a href="https://2021.eurosys.org">EuroSys '21</a>, aims to discuss emerging techniques and latest
 progress on a broad range of topics related to the availability and
