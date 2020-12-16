@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img class="img-logo" src="assets/image/cloud_aircraft2.png" alt="Cloud Image" style="padding-left: 0px; padding-right: 0px;">
+<!-- <img class="img-logo" src="assets/image/cloud_aircraft2.png" alt="Cloud Image" style="padding-left: 0px; padding-right: 0px;"> -->
 
-## Call For Papers
+<h2 class="text-primary">Call For Papers</h2>
 
 The first workshop on High Availability and Observability of Cloud Systems
 (HAOC) invites short papers related to the availability and observability of
@@ -30,13 +30,13 @@ Relevant topics include, but are not limited to:
 * Instrumentation including eBPF techniques and use-cases
 * Zero-downtime updates and deployment
 
-## Important Dates
+<h2 class="text-primary">Important Dates</h2>
 
 * Paper Submission: Wednesday, February 10, 2021
 * Notification to Authors: Wednesday, March 17, 2021
 * Final Paper Due: Wednesday, March 31, 2021
 
-## Submission Guidelines
+<h2 class="text-primary">Submission Guidelines</h2>
 
 The main objective for the workshop is to advance the principles and practices on
 this subject by creating a discussion forum that brings together researchers,
@@ -62,7 +62,7 @@ authors' names, i.e., authors may keep the company's name, production
 system name, etc., as appropriate in the paper, which would provide 
 reviewers with better context to evaluate the work.
 
-## Submission Website
+<h2 class="text-primary">Submission Website</h2>
 
 **Submit your paper** at [https://haoc21.hotcrp.com](https://haoc21.hotcrp.com)
 
