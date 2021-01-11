@@ -8,7 +8,16 @@ layout: default
 * Rebecca Isaacs, Twitter
 
 <h2 class="text-primary">Program Committee</h2>
-* TBA
+* Yair Amir, Johns Hopkins University
+* Theophilus Benson, Brown University
+* Aishwarya Ganesan, VMWare Research
+* Helen Gu, North Carolina State University
+* Chuanxiong Guo, ByteDance
+* Vasiliki Kalavri, Boston University
+* Jonathan Mace, Max Planck Institute for Software Systems (MPI-SWS)
+* Cindy Sridharan, Apple
+* John Wilkes, Google
+* Ding Yuan, University of Toronto
 
 <h2 class="text-primary">Web Chair</h2>
 * Chang Lou, Johns Hopkins University
