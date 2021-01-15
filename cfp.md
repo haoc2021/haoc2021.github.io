@@ -26,7 +26,7 @@ Relevant topics include, but are not limited to:
 * Availability measurement
 * Testing and correctness
 * Fault tolerance and failure mitigation
-* Using ML for automation (AIOps)
+* Using machine learning for automation 
 * Instrumentation including eBPF techniques and use-cases
 * Zero-downtime updates and deployment
 
@@ -35,6 +35,7 @@ Relevant topics include, but are not limited to:
 * Paper Submission: Wednesday, February 10, 2021
 * Notification to Authors: Wednesday, March 17, 2021
 * Final Paper Due: Wednesday, March 31, 2021
+* Workshop date: Monday, April 26, 2021
 
 <h2 class="text-primary">Submission Guidelines</h2>
 
@@ -53,6 +54,13 @@ using two columns separated by 0.33" (8 mm) of whitespace. Use 10-point type on
 12-point (single-spaced) leading and Times Roman or a similar font for the 
 body of the paper. Authors using Microsoft Word or LaTeX should consider using 
 the [ACM SIGPLAN template](https://www.acm.org/publications/proceedings-template).
+A sample is provided in [this repository](https://github.com/haoc2021/template.git):
+
+```bash
+$ git clone https://github.com/haoc2021/template.git
+$ cd template
+$ make
+```
 
 The paper review is double-blind. Authors should anonymize the paper content, 
 including removing authors' names and affiliations in the title page. 
