@@ -15,7 +15,7 @@ layout: default
 * Chuanxiong Guo, ByteDance
 * Vasiliki Kalavri, Boston University
 * Jonathan Mace, Max Planck Institute for Software Systems (MPI-SWS)
-* Cindy Sridharan, Apple
+* Cindy Sridharan
 * John Wilkes, Google
 * Ding Yuan, University of Toronto
 
