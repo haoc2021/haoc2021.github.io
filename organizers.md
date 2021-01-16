@@ -10,7 +10,7 @@ layout: default
 <h2 class="text-primary">Program Committee</h2>
 * Yair Amir, Johns Hopkins University
 * Theophilus Benson, Brown University
-* Aishwarya Ganesan, VMWare Research
+* Aishwarya Ganesan, VMware Research
 * Helen Gu, North Carolina State University
 * Chuanxiong Guo, ByteDance
 * Vasiliki Kalavri, Boston University
