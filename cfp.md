@@ -70,6 +70,8 @@ authors' names, i.e., authors may keep the company's name, production
 system name, etc., as appropriate in the paper, which would provide 
 reviewers with better context to evaluate the work.
 
+For any questions, please contact the workshop co-chairs at [haoc21chairs@gmail.com](mailto:haoc21chairs@gmail.com).
+
 <h2 class="text-primary">Submission Website</h2>
 
 **Submit your paper** at [https://haoc21.hotcrp.com](https://haoc21.hotcrp.com)
