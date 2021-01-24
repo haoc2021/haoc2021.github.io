@@ -72,8 +72,13 @@ reviewers with better context to evaluate the work.
 
 For any questions, please contact the workshop co-chairs at [haoc21chairs@gmail.com](mailto:haoc21chairs@gmail.com).
 
+<h2 class="text-primary">Publication</h2>
+
+Accepted papers will be published in the workshop proceedings in the ACM Digital 
+Library. The workshop proceedings are in separate volumes from the EuroSys 
+conference proceedings, but will be listed as side events of the EuroSys 
+in the ACM Digital Library.
+
 <h2 class="text-primary">Submission Website</h2>
 
 **Submit your paper** at [https://haoc21.hotcrp.com](https://haoc21.hotcrp.com)
-
-
