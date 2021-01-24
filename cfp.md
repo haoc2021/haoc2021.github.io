@@ -76,7 +76,7 @@ For any questions, please contact the workshop co-chairs at [haoc21chairs@gmail.
 
 Accepted papers will be published in the workshop proceedings in the ACM Digital 
 Library. The workshop proceedings are in separate volumes from the EuroSys 
-conference proceedings, but will be listed as side events of the EuroSys 
+conference proceedings, but will be listed as side events of EuroSys '21
 in the ACM Digital Library.
 
 <h2 class="text-primary">Submission Website</h2>
