@@ -32,10 +32,12 @@ Relevant topics include, but are not limited to:
 
 <h2 class="text-primary">Important Dates</h2>
 
-* Paper Submission: Wednesday, February 10, 2021
-* Notification to Authors: Wednesday, March 17, 2021
-* Final Paper Due: Wednesday, March 31, 2021
-* Workshop date: Monday, April 26, 2021
+<ul>
+<li><b>Paper Submission</b>: <s>Wednesday, February 10, 2021</s> Thursday, February 18, 2021</li>
+<li><b>Notification to Authors</b>: Wednesday, March 17, 2021</li>
+<li><b>Final Paper Due</b>: Wednesday, March 31, 2021</li>
+<li><b>Workshop date</b>: Monday, April 26, 2021</li>
+</ul>
 
 <h2 class="text-primary">Submission Guidelines</h2>
 
