@@ -33,7 +33,7 @@ Relevant topics include, but are not limited to:
 <h2 class="text-primary">Important Dates</h2>
 
 <ul>
-<li><b>Paper Submission</b>: <s>Wednesday, February 10, 2021</s> Thursday, February 18, 2021</li>
+<li><b>Paper Submission</b>: <s>Wednesday, February 10, 2021</s> <span style="color:red">Thursday, February 18, 2021</span></li>
 <li><b>Notification to Authors</b>: Wednesday, March 17, 2021</li>
 <li><b>Final Paper Due</b>: Wednesday, March 31, 2021</li>
 <li><b>Workshop date</b>: Monday, April 26, 2021</li>
