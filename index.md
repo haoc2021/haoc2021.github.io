@@ -20,8 +20,8 @@ creating a discussion forum that brings together researchers, engineers,
 administrators, and practitioners. 
 
 <h2 class="text-primary">News</h2>
-* 2021-02-19: <span class="text-warning">Per a special request, the submission deadline is now Monday, February 22, 2021!</span>
-* 2021-02-11: <span class="text-warning">The submission deadline is extended by one week!</span>
+* 2021-02-19: <span class="text-warning">Per a special request, the submission deadline is now Monday, February 22, 2021.</span>
+* 2021-02-11: The submission deadline is extended by one week!
 * 2020-12-11: Workshop website is up
 
 <h2 class="text-primary">Important Dates</h2>
@@ -29,7 +29,7 @@ administrators, and practitioners.
 <table class="table table-striped table-hover center-block">
 <tr>
   <td>Paper Submission</td>
-  <td><s>Wednesday, February 10, 2021</s>&nbsp;<span style="color:red"><b>Thursday, February 18, 2021</b></span></td>
+  <td><s>Wednesday, February 10, 2021</s>&nbsp;<span style="color:red"><b>Monday, February 22, 2021</b></span></td>
 </tr>
 <tr>
   <td>Notification to Authors</td>
