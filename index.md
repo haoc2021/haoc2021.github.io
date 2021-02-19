@@ -20,6 +20,7 @@ creating a discussion forum that brings together researchers, engineers,
 administrators, and practitioners. 
 
 <h2 class="text-primary">News</h2>
+* 2021-02-19: <span class="text-warning">Per a special request, the submission deadline is now Monday, February 22, 2021!</span>
 * 2021-02-11: <span class="text-warning">The submission deadline is extended by one week!</span>
 * 2020-12-11: Workshop website is up
 
