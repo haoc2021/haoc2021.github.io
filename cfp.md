@@ -2,9 +2,9 @@
 layout: default
 ---
 
-<img class="img-logo" src="assets/image/cloud_aircraft2.png" alt="Cloud Image" style="padding-left: 0px; padding-right: 0px;">
+<!-- <img class="img-logo" src="assets/image/cloud_aircraft2.png" alt="Cloud Image" style="padding-left: 0px; padding-right: 0px;"> -->
 
-## Call For Papers
+<h2 class="text-primary">Call For Papers</h2>
 
 The first workshop on High Availability and Observability of Cloud Systems
 (HAOC) invites short papers related to the availability and observability of
@@ -26,17 +26,20 @@ Relevant topics include, but are not limited to:
 * Availability measurement
 * Testing and correctness
 * Fault tolerance and failure mitigation
-* Using ML for automation (AIOps)
+* Using machine learning for automation 
 * Instrumentation including eBPF techniques and use-cases
 * Zero-downtime updates and deployment
 
-## Important Dates
+<h2 class="text-primary">Important Dates</h2>
 
-* Paper Submission: Wednesday, February 10, 2021
-* Notification to Authors: Wednesday, March 17, 2021
-* Final Paper Due: Wednesday, March 31, 2021
+<ul>
+<li><b>Paper Submission</b>: <s>Wednesday, February 10, 2021</s> <span style="color:red">Monday, February 22, 2021</span></li>
+<li><b>Notification to Authors</b>: Wednesday, March 17, 2021</li>
+<li><b>Final Paper Due</b>: Wednesday, March 31, 2021</li>
+<li><b>Workshop date</b>: Monday, April 26, 2021</li>
+</ul>
 
-## Submission Guidelines
+<h2 class="text-primary">Submission Guidelines</h2>
 
 The main objective for the workshop is to advance the principles and practices on
 this subject by creating a discussion forum that brings together researchers,
@@ -53,6 +56,13 @@ using two columns separated by 0.33" (8 mm) of whitespace. Use 10-point type on
 12-point (single-spaced) leading and Times Roman or a similar font for the 
 body of the paper. Authors using Microsoft Word or LaTeX should consider using 
 the [ACM SIGPLAN template](https://www.acm.org/publications/proceedings-template).
+A sample is provided in [this repository](https://github.com/haoc2021/template.git):
+
+```bash
+$ git clone https://github.com/haoc2021/template.git
+$ cd template
+$ make
+```
 
 The paper review is double-blind. Authors should anonymize the paper content, 
 including removing authors' names and affiliations in the title page. 
@@ -62,8 +72,15 @@ authors' names, i.e., authors may keep the company's name, production
 system name, etc., as appropriate in the paper, which would provide 
 reviewers with better context to evaluate the work.
 
-## Submission Website
+For any questions, please contact the workshop co-chairs at [haoc21chairs@gmail.com](mailto:haoc21chairs@gmail.com).
+
+<h2 class="text-primary">Publication</h2>
+
+Accepted papers will be published in the workshop proceedings in the ACM Digital 
+Library. The workshop proceedings are in separate volumes from the EuroSys 
+conference proceedings, but will be listed as side events of EuroSys '21
+in the ACM Digital Library.
+
+<h2 class="text-primary">Submission Website</h2>
 
 **Submit your paper** at [https://haoc21.hotcrp.com](https://haoc21.hotcrp.com)
-
-
