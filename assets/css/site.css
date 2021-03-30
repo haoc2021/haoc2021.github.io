@@ -257,3 +257,29 @@ pre {
     text-align: center;
   }
 }
+.program_block {
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.program_entry_time {
+  background: #d1d1d1;
+  color: #000;
+  padding: 5px 8px;
+}
+.program_entry_break_time {
+  background: #ddf4e0;
+  color: #000;
+  padding: 5px 8px;
+}
+.program_entry {
+}
+.speaker_image {
+  align-content: center;
+  float: left;
+  margin-right: 1em; 
+}
+.speaker_image > img {
+  width: 200px;
+  margin-bottom: .2em; 
+}
+
