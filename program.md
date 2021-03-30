@@ -6,16 +6,8 @@ layout: default
 ---
 ### April 26th, 2021
 
-<span class="text-warning">Times are in Pacific Time</span>
+<span class="text-warning">All times are in Pacific Time</span>
 
-<div class="row program_block">
-  <div class="col">
-    <div class="program_entry_time">04:00 am - 05:00 am</div>
-    <div class="program_entry">
-      Eurosys Andy Tanenbaum Q&A
-    </div>
-  </div>
-</div>
 <h4>Workshop Program</h4>
 <div class="row program_block">
   <div class="col">

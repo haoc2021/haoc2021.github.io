@@ -20,7 +20,7 @@ creating a discussion forum that brings together researchers, engineers,
 administrators, and practitioners. 
 
 <h2 class="text-primary">News</h2>
-* 2021-03-29: The workshop keynote speaker will be Haryadi Gunawi
+* 2021-03-30: The workshop keynote speaker will be Haryadi Gunawi
 * 2021-03-18: An invited talk will be given by Samer Al-Kiswany
 * 2021-03-18: <a href="accepted_papers.html">Four papers</a> are accepted to appear in the workshop. Congratulations to all authors!
 * 2021-02-19: <span class="text-warning">Per a special request, the submission deadline is now Monday, February 22, 2021.</span>
