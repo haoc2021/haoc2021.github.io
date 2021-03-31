@@ -109,6 +109,24 @@ layout: default
     <div class="program_entry">
       <b>Invited Talk II</b>
     </div>
+    <div class="program_entry_content_title">
+      <a href="#invited_talk_2_content" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="invited_talk_2_content">
+	TBA
+      </a>
+    </div>
+    <div class="program_entry_content_speakers">
+	Kay Ousterhout, LightStep
+    </div>
+    <br>
+    <div class="collapse program_entry_content_details" id="invited_talk_2_content">
+      <div class="program_entry_content_abstract">
+        <p> TBA
+        </p>
+        <p>
+        </p>
+      </div>
+    </div>
+
   </div>
 </div>
 <div class="row program_block">
