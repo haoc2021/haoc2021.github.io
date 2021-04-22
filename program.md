@@ -17,11 +17,30 @@ layout: default
     </div>
     <div class="program_entry_content">
       <div class="program_entry_content_title">
-        <a href="#">Title: TBA</a>
+        <a href="#keynote_talk_content" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="invited_talk_1_content">
+          Too Many Tests, Too Little Time: How to Find Bugs Faster
+        </a>
       </div>
       <div class="program_entry_content_speakers">
         Haryadi Gunawi, University of Chicago
-      </div>      
+      </div>
+      <div class="collapse program_entry_content_details" id="keynote_talk_content">
+      <div class="program_entry_content_abstract">
+        <p>
+          As more data and computation move from local to cloud environments, datacenter distributed systems have become a dominant backbone for many modern applications.  However, the complexity of cloud-scale hardware and software ecosystems has outpaced existing testing, debugging, and verification tools.  I will describe a classical class of bugs that surface in large-scale datacenter distributed systems, distributed concurrency bugs, caused by non-deterministic timings of distributed events such as message arrivals as well as multiple crashes and reboots.  The challenge is the too many tests to perform.  I will describe our 7-year of experience in taming this problem, in particular how to systematically reduce the number of tests to perform when building software model checkers for distributed datacenter systems. 
+        </p>
+      </div>
+      <div class="program_entry_content_bio">
+        <div class="speaker_image">
+          <img src="assets/image/speaker/haryadi-9.jpg" />
+        </div>
+        <div class="speaker_bio">
+          <p>
+            Haryadi S. Gunawi is an Associate Professor in the Department of Computer Science at the University of Chicago where he leads the UCARE research group (UChicago systems research on Availability, Reliability, and Efficiency). He received his Ph.D. in Computer Science from the University of Wisconsin, Madison in 2009. He was a postdoctoral fellow at the University of California, Berkeley from 2010 to 2012. His current research focuses on cloud computing reliability and new storage technology. He has won numerous awards including NSF CAREER award, NSF Computing Innovation Fellowship, Google Faculty Research Award, NetApp Faculty Fellowships, and Honorable Mention for the 2009 ACM Doctoral Dissertation Award.
+          </p>
+        </div>
+      </div>
+    </div>     
     </div>
   </div>
 </div>
