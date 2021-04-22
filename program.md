@@ -163,7 +163,7 @@ layout: default
       </div>
       <div class="program_entry_content_bio">
         <div class="speaker_image">
-          <img src="http://kayousterhout.org/images/kay_ousterhout.jpg" />
+          <img src="assets/image/speaker/kay_ousterhout.jpg" />
         </div>
         <div class="speaker_bio">
           <p>
