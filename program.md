@@ -47,6 +47,24 @@ layout: default
     <div class="program_entry">
       <b>Paper Presentation Session I</b>
     </div>
+    ------
+    <div class="program_entry_content_title">
+      <a href="#session1_1">
+        CARE: Infusing Causal Aware Thinking to Root Cause Analysis in Cloud System
+      </a>
+    </div>
+    <div class="program_entry_content_speakers">
+        Yong Xu and Xu Zhang (Microsoft Research, Beijing, China); Chuan Luo and Si Qin (Microsoft Research); Rohit Pandey (Microsoft , Redmond); Chao Du and Qingwei Lin (Microsoft Research, Beijing, China); Yingnong Dang (Microsoft, Redmond); Andrew Zhou (Microsoft)
+    </div>
+    <br/><br/>
+    <div class="program_entry_content_title">
+      <a href="#session1_2">
+        Frisbee: A Suite for Benchmarking Systems Recovery
+      </a>
+    </div>
+    <div class="program_entry_content_speakers">
+        Fotis Nikolaidis (FORTH, Greece); Angelos Bilas (Univ. of Crete and FORTH, Greece); Manolis Marazakis (FORTH-ICS); Antonis Chazapis (FORTH, Greece)
+    </div>
   </div>
 </div>
 <div class="row program_block">
@@ -101,6 +119,24 @@ layout: default
     <div class="program_entry">
       <b>Paper Presentation Session II</b>
     </div>
+    ------
+    <div class="program_entry_content_title">
+      <a href="#session2_1">
+        Examining Raft's behaviour during partial network failures
+      </a>
+    </div>
+    <div class="program_entry_content_speakers">
+        Chris Jensen, Heidi Howard, and Richard Mortier (University of Cambridge)
+    </div>
+    <br/><br/>
+    <div class="program_entry_content_title">
+      <a href="#session2_2">
+        Service mesh circuit breaker: From panic button to performance management tool
+      </a>
+    </div>
+    <div class="program_entry_content_speakers">
+        Mohammad Reza Saleh Sedghpour, Cristian Klein, and Johan Tordsson (Umeå University)
+    </div>
   </div>
 </div>
 <div class="row program_block">
@@ -111,21 +147,32 @@ layout: default
     </div>
     <div class="program_entry_content_title">
       <a href="#invited_talk_2_content" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="invited_talk_2_content">
-	TBA
+        Sampling Distributed Traces: Evolution from 2005 to Today
       </a>
     </div>
     <div class="program_entry_content_speakers">
-	Kay Ousterhout, LightStep
+	      Kay Ousterhout, LightStep
     </div>
     <br>
     <div class="collapse program_entry_content_details" id="invited_talk_2_content">
       <div class="program_entry_content_abstract">
-        <p> TBA
+        <p> Distributed tracing has become a widespread tool for understanding the performance of large-scale systems: unlike metrics or logs, traces follow a request through every service to provide critical context for debugging problems. Retaining traces for every request through a system is typically prohibitively expensive, so all systems for distributed tracing sample a subset of traces to save. In this talk, I’ll talk about three iterations of sampling for distributed tracing, starting from the simple, random approach employed by Google’s production tracing system, Dapper, in 2005, and ending in a new approach that Lightstep is beginning to use in production. Over time, technology improvements have allowed sampling decisions to be delayed later and later in the data ingestion pipeline, which has enabled more sophisticated sampling algorithms that consider more dimensions in choosing which traces to save. I’ll end by talking about ongoing challenges and opportunities in selecting the most useful sample of tracing data.
         </p>
         <p>
         </p>
       </div>
+      <div class="program_entry_content_bio">
+        <div class="speaker_image">
+          <img src="http://kayousterhout.org/images/kay_ousterhout.jpg" />
+        </div>
+        <div class="speaker_bio">
+          <p>
+            Kay Ousterhout is a software engineer at Lightstep, where she's building performance management tools that enable users to understand the performance of complex distributed systems. Before Lightstep, Kay received a PhD from UC Berkeley. Her thesis focused on building high-performance data analytics frameworks that allow users to reason about - and optimize for - performance. Kay is also a committer and PMC member for Apache Spark; her work on Spark has focused on improving scheduler performance.
+          </p>
+        </div>
+      </div>
     </div>
+
 
   </div>
 </div>
