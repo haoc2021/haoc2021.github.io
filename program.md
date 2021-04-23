@@ -68,21 +68,39 @@ layout: default
     </div>
     ------
     <div class="program_entry_content_title">
-      <a href="#session1_1">
+    <a href="#session1_1_content" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="session1_1_content">
         CARE: Infusing Causal Aware Thinking to Root Cause Analysis in Cloud System
       </a>
     </div>
     <div class="program_entry_content_speakers">
+      <p>
         Yong Xu and Xu Zhang (Microsoft Research, Beijing, China); Chuan Luo and Si Qin (Microsoft Research); Rohit Pandey (Microsoft , Redmond); Chao Du and Qingwei Lin (Microsoft Research, Beijing, China); Yingnong Dang (Microsoft, Redmond); Andrew Zhou (Microsoft)
+      </p>
+    </div>
+    <div class="collapse program_entry_content_details" id="session1_1_content">
+      <div class="program_entry_content_abstract">
+        <p>
+          With millions of customers accessing online service all over the world, ensuring high service availability is very critical for cloud system. In recent years, empowered by advanced data mining and machine learning technology, there emerges extensive study on data-driven solution to detect anomalous system behavior and diagnose the root cause. However, without any surveilance of data generation process, the existing passive data-driven approach may lead to biased analysis result induced by observed and unobserved confounding factors in the dynamic and heterogeneous system, and thus affect service availability with misleading mitigation action.  In this paper, we propose to infuse causal thinking to the current data-driven solution for cloud system. We developed CARE, a causal aware root cause discovery engine, which utilizes Random Control Trial to proactively generate less ambiguous data for further analysis. A case study shows the application of CARE to Microsoft Office365.
+        </p>
+      </div>
     </div>
     <br/><br/>
     <div class="program_entry_content_title">
-      <a href="#session1_2">
+      <a href="#session1_2_content" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="session1_2_content">
         Frisbee: A Suite for Benchmarking Systems Recovery
       </a>
     </div>
     <div class="program_entry_content_speakers">
+      <p>
         Fotis Nikolaidis (FORTH, Greece); Angelos Bilas (Univ. of Crete and FORTH, Greece); Manolis Marazakis (FORTH-ICS); Antonis Chazapis (FORTH, Greece)
+      </p>
+    </div>
+    <div class="collapse program_entry_content_details" id="session1_2_content">
+      <div class="program_entry_content_abstract">
+        <p>
+          With failures being unavoidable, a system's ability to recover from failures quickly is a critical factor in the overall availability of the system. Although many systems exhibit self-healing properties, their behavior in the presence of failures is poorly understood. This is primarily due to the shortcomings of existing benchmarks, which cannot generate failures. For a more accurate systems evaluation, we argue that it is essential to create new suites that treat failures as first-class citizens. We present Frisbee, a benchmark suite and evaluation methodology for comparing the recovery behavior of highly available systems. Frisbee is built for the Kubernetes environment, leveraging several valuable tools in its stack, including Chaos tools for fault injection, Prometheus for distributed monitoring, and Grafana for visualization. We discuss a set of design requirements and present an initial prototype that makes faultloads as easy to run and characterize as traditional performance workloads. Furthermore, we define a core set of failure patterns against which systems can be compared.
+        </p>
+      </div>
     </div>
   </div>
 </div>
@@ -140,21 +158,43 @@ layout: default
     </div>
     ------
     <div class="program_entry_content_title">
-      <a href="#session2_1">
+      <a href="#session2_1_content" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="session2_1_content">
         Examining Raft's behaviour during partial network failures
       </a>
     </div>
     <div class="program_entry_content_speakers">
+      <p>
         Chris Jensen, Heidi Howard, and Richard Mortier (University of Cambridge)
+      </p>
+    </div>
+    <div class="collapse program_entry_content_details" id="session2_1_content">
+      <div class="program_entry_content_abstract">
+        <p>
+          State machine replication protocols such as Raft are widely used to build highly-available strongly-consistent services, maintaining liveness even if a minority of servers crash. As these systems are implemented and optimised for production, they accumulate many divergences from the original specification. These divergences are poorly documented, resulting in operators having an incomplete model of the system's characteristics, especially during failures. In this paper, we look at one such Raft model used to explain the November Cloudflare outage and show that etcd's behaviour during the same failure differs. We continue to show the specific optimisations in etcd causing this difference and present a more complete model of the outage based on etcd's behaviour in an emulated deployment using reckon. Finally, we highlight the upcoming PreVote optimisation in etcd, which might have prevented the outage from happening in the first place.
+        </p>
+      </div>
     </div>
     <br/><br/>
     <div class="program_entry_content_title">
-      <a href="#session2_2">
+      <a href="#session2_2_content" data-toggle="collapse" role="button" aria-expanded="false" aria-controls="session2_2_content">
         Service mesh circuit breaker: From panic button to performance management tool
       </a>
     </div>
     <div class="program_entry_content_speakers">
+      <p>
         Mohammad Reza Saleh Sedghpour, Cristian Klein, and Johan Tordsson (Umeå University)
+      </p>
+    </div>
+    <div class="collapse program_entry_content_details" id="session2_2_content">
+      <div class="program_entry_content_abstract">
+        <p>
+          Site Reliability Engineers are at the center of two tensions: On one hand, they need to respond to alerts within a short time, to restore a non-functional system. On the other hand, short response times is disruptive to everyday life and lead to alert fatigue. To alleviate this tension, many resource management mechanisms are proposed handle overload and mitigate the faults. One recent such mechanism is circuit breaking in service meshes. Circuit breaking rejects incoming requests to protect latency at the expense of availability (successfully answered requests), but in many scenarios achieve neither due to the difficulty of knowing when to trigger circuit breaking in highly dynamic microservice environments. 
+        </p>
+        <p>
+          We propose an adaptive circuit breaking mechanism, implemented through an adaptive controller, that not only avoids overload and mitigate failure, but keeps the tail response time below a given threshold while maximizing service throughput. Our proposed controller is experimentally compared with a static circuit breaker across a wide set of overload scenarios in a testbed based on Istio and Kubernetes. The results show that our controller maintains tail response time below the given threshold 98% of the time (including cold starts) on average with an availability of 70% with 29% of requests circuit broken. This compares favorably to a static circuit breaker configuration, which features a 63% availability, 30% circuit broken requests, and more than 5% of requests timing out.
+        </p>
+        
+      </div>
     </div>
   </div>
 </div>
