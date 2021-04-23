@@ -11,7 +11,15 @@ layout: default
 <h4>Workshop Program</h4>
 <div class="row program_block">
   <div class="col">
-    <div class="program_entry_time">08:00 am - 09:00 am</div>
+    <div class="program_entry_time">08:00 am - 08:05 am</div>
+    <div class="program_entry">
+      <b>Welcome</b>
+    </div>
+  </div>
+</div>
+<div class="row program_block">
+  <div class="col">
+    <div class="program_entry_time">08:05 am - 09:05 am</div>
     <div class="program_entry">
       <b>Keynote</b>
     </div>
@@ -46,15 +54,7 @@ layout: default
 </div>
 <div class="row program_block">
   <div class="col">
-    <div class="program_entry_time">09:00 am - 09:20 am</div>
-    <div class="program_entry">
-      <b>Introductions</b>
-    </div>
-  </div>
-</div>
-<div class="row program_block">
-  <div class="col">
-    <div class="program_entry_break_time">09:20 am - 09:30 am</div>
+    <div class="program_entry_break_time">09:05 am - 09:30 am</div>
     <div class="program_entry">
       <b>Break</b>
     </div>
