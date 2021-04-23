@@ -247,10 +247,20 @@ layout: default
   <div class="col">
     <div class="program_entry_time">11:50 am - 12:50 pm</div>
     <div class="program_entry">
-      <b>Panel (chair: John Wilkes)</b>
+      <b>Panel</b>
     </div>
     <div class="program_entry_content_title">
-      <a href="#">Topic: TBA</a>
+      <ul>
+      <li>Moderator: John Wilkes, Google</li>
+      <li>Panelists:
+      <ul>
+        <li>Evangelia Kalyvianaki, University of Cambridge</li>
+        <li>Jonathan Mace, Max Planck Institute for Software Systems (MPI-SWS)</li>
+        <li>Noa Zilberman, University of Oxford</li>
+        <li>Yonatan Zunger, Twitter</li>
+      </ul>
+      </li>
+      </ul>
     </div>
   </div>
 </div>
