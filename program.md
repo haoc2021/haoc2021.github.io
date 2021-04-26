@@ -2,6 +2,11 @@
 layout: default
 ---
 
+## Proceedings
+---
+<i class="far fa-file-pdf"></i>&nbsp; [Digital Link](http://dl.acm.org/citation.cfm?id=3447851)
+
+
 ## Program
 ---
 ### April 26th, 2021
@@ -92,7 +97,7 @@ layout: default
     </div>
     <div class="program_entry_content_speakers">
       <p>
-        Fotis Nikolaidis (FORTH, Greece); Angelos Bilas (Univ. of Crete and FORTH, Greece); Manolis Marazakis (FORTH-ICS); Antonis Chazapis (FORTH, Greece)
+        Fotis Nikolaidis (FORTH, Greece); Antony Chazapis (FORTH, Greece); Manolis Marazakis (FORTH-ICS); Angelos Bilas (Univ. of Crete and FORTH, Greece)
       </p>
     </div>
     <div class="collapse program_entry_content_details" id="session1_2_content">
